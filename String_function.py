@@ -51,6 +51,4 @@ print(str4.find('d'))
 
 #5. str.count: returns the count of the word which is used in the string
 
-print(str4.count('o'))
-
-print(str4.count('Youtube'))
+print(str4.count('o')) #we can also count whole word rather than string
